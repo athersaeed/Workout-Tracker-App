@@ -37,7 +37,7 @@ The Workout Progress Tracker is a user-friendly GUI application built with `tkin
 1.  **Clone the repository** (or download usage files):
 
     ```bash
-    git clone <repository_url>
+    git clone git@github.com:athersaeed/Workout-Tracker-App.git
     cd Workout-Progress-Tracker
     ```
 
